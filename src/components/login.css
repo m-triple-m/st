@@ -1,0 +1,8 @@
+.bt{
+    background-color: rgb(34, 34, 129);
+    color: whitesmoke;
+    border-radius: 5rem;
+}
+bt:hover{
+    background-color: tomato;
+}

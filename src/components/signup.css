@@ -1,0 +1,24 @@
+/* .col{
+    background-color: darkblue;
+} */
+h1{
+    color: blueviolet;
+}
+
+
+.form-container{
+    height: 90vh;
+}
+
+.my-card-body{
+    padding: 10rem 5rem;
+}
+
+.bgsignup{
+margin-left: 50px;
+}
+.bt{
+    background-color: rgb(34, 34, 129);
+    color: whitesmoke;
+    border-radius: 5rem;
+}
